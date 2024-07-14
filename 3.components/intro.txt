@@ -1,0 +1,4 @@
+React Components
+
+React components are the building blocks of a React application. They encapsulate a part of the user interface and can be reused throughout the application. There are two main types of components: Functional Components and Class Components.
+
